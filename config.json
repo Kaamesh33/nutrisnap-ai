@@ -1,0 +1,4 @@
+{
+  "analysisUrl": "",
+  "_help": "To switch on photo analysis, paste your Cloudflare Worker address between the quotes of analysisUrl, for example https://nutrisnap-analyzer.yourname.workers.dev . Never put an API key in this file: it is public."
+}
